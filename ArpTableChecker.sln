@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ArpTableChecker", "ArpTableChecker\ArpTableChecker.pyproj", "{C4DCF63A-212F-425F-B6DF-563F5A8C4A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4DCF63A-212F-425F-B6DF-563F5A8C4A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DCF63A-212F-425F-B6DF-563F5A8C4A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91FF18A0-6622-4621-932D-4ECC0289A369}
+	EndGlobalSection
+EndGlobal
